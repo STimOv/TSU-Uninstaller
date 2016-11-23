@@ -1,0 +1,9 @@
+C:\Users\t.siebentaler\Documents\Codeblocks\primmsmpi\SW_Registry\bin\Debug\SW_Registry.exe.config
+C:\Users\t.siebentaler\Documents\Codeblocks\primmsmpi\SW_Registry\bin\Debug\SW_Registry.exe
+C:\Users\t.siebentaler\Documents\Codeblocks\primmsmpi\SW_Registry\bin\Debug\SW_Registry.pdb
+C:\Users\t.siebentaler\Documents\Codeblocks\primmsmpi\SW_Registry\obj\Debug\SW_Registry.Installed.resources
+C:\Users\t.siebentaler\Documents\Codeblocks\primmsmpi\SW_Registry\obj\Debug\SW_Registry.Properties.Resources.resources
+C:\Users\t.siebentaler\Documents\Codeblocks\primmsmpi\SW_Registry\obj\Debug\SW_Registry.csproj.GenerateResource.Cache
+C:\Users\t.siebentaler\Documents\Codeblocks\primmsmpi\SW_Registry\obj\Debug\SW_Registry.exe
+C:\Users\t.siebentaler\Documents\Codeblocks\primmsmpi\SW_Registry\obj\Debug\SW_Registry.pdb
+C:\Users\t.siebentaler\Documents\Codeblocks\primmsmpi\SW_Registry\obj\Debug\SW_Registry.csprojResolveAssemblyReference.cache
